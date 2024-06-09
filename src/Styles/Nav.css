@@ -1,0 +1,67 @@
+table{
+    width: 100%;
+}
+
+table td{
+    width: 16%;
+}
+
+/* Nav.css */
+.btn1,
+.btn2,
+.btn3,
+.btn4,
+.btn5,
+.btn6 {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color */ 
+}
+
+.btn1{
+    background-color: white; /* New button color */
+    color: rgb(20, 20, 62); /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  .btn2{
+    background-color: white; /* New button color */
+    color: rgb(20, 20, 62); /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  .btn3{
+    background-color: white; /* New button color */
+    color: rgb(20, 20, 62); /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  .btn4{
+    background-color: white; /* New button color */
+    color: rgb(20, 20, 62); /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  .btn5{
+    background-color: white; /* New button color */
+    color: rgb(20, 20, 62); /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }
+  .btn6{
+    background-color: white; /* New button color */
+    color: rgb(20, 20, 62); /* Text color */
+    border: none; /* Remove button border */
+    padding: 10px 20px; /* Adjust padding as needed */
+    cursor: pointer; /* Add cursor pointer on hover */
+    border-radius: 10px;
+  }

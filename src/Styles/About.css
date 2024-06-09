@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(20, 20, 62); /* Set blue background color */
+}
+
+.h1 {
+    color: white; /* Set text color to white */
+    text-align: center; /* Align text to the center */
+    font-size: 50px;
+}
+
+.h2 {
+    color: white;
+}
+.image {
+    border-radius: 50%;
+    width: 500px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+table td {
+    width: 50%;
+    text-align: center;
+    color: white;
+}
+
+table img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+button{
+    background-color: white;
+    color: rgb(20, 20, 62);
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+}
