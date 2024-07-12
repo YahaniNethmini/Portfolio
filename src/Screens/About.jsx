@@ -18,11 +18,10 @@ function About() {
                             <td>
                                 <div>
                                     <h1>I'm Yahani Nethmini</h1><br />
-                                    <h2 class="h2">UI Designer | Front End Developer | Designer</h2>
-                                    <h2 class="h2">(PhotoShop / Illustrator)</h2><br />
+                                    <h2 class="h2">UI Designer | Front End Developer | Designer (PhotoShop / Illustrator)</h2><br />
                                     <h4>I am an energetic, self-driven person who has demonstrated the capacity to adjust to different technological stacks. I enjoy working under pressure and jumping at the chance to take on new tasks. I'm constantly looking for methods to learn and develop.</h4>
                                     <br /><br />
-                                    <button>See Resume</button>
+                                    <button><a href="https://drive.google.com/file/d/1EG-EfdPBN30IKOQ_Iciw3ADL21e7dsJu/view?usp=drive_link" target="_blank" rel="noreferrer">See Resume</a></button>
                                 </div>
                             </td>
                         </tr>

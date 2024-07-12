@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    justify-content: center; /* Align items along the main axis (horizontally) */
+    width: 97%;
+}
+
+.card-content {
+    margin-bottom: 20px; 
+    align-content: center; 
+    border-radius: 10px;
+}

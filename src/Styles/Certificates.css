@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: white;
+}
+  
+  h2{
+    color: rgb(20, 20, 62);
+    font-size: 15px;
+  }
+  
+  .certificate-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Creates 3 equal columns */
+    gap: 20px; /* Adds space between the columns */
+    padding: 20px;
+}
+
+.column {
+    padding: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    border-radius: 10px;
+}
+
+.column.clicked {
+    background-color: rgb(20, 20, 62);
+    color: white;
+    border: 1px solid white;
+}
+
+.column.clicked h2 {
+    color: white;
+}
