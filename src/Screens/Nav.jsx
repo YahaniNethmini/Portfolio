@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom"; 
 import "../Styles/Nav.css"
 
-function Nav(){
-    return(
+function Nav() {
+    return (
         <table className="custom-table-nav">
             <tbody>
                 <tr>
@@ -28,7 +28,7 @@ function Nav(){
                 </tr>
             </tbody>
         </table>
-    )
+    );
 }
 
 export default Nav;
